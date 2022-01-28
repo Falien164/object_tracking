@@ -7,8 +7,8 @@ This git repository is about user endpoint that is graphical user interface. Mai
 
 GUI was made by C++ and QT library
 ### GUI
-<img src="https://github.com/Falien164/object_tracking/blob/main/img/gui.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/img/gui.png" width="400" height="400">
 
 
 ### Test of object tracking 
-<img src="https://github.com/Falien164/object_tracking/blob/main/img/object_tracking.png" width="400" height="400">
+<img src="https://github.com/Falien164/object_tracking/blob/master/img/object_tracking.png" width="400" height="400">
